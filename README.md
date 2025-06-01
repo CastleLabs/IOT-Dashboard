@@ -4,7 +4,7 @@ A comprehensive web-based dashboard for monitoring and managing IoT devices acro
 
 ## 🎯 Overview
 
-The IOT Device Management System is designed specifically for Castle Fun Center's diverse technology ecosystem, providing real-time monitoring and management of over 30 different IoT devices across multiple categories. The system features both a monitoring dashboard and a complete management interface for adding, editing, and organizing devices.
+The IOT Device Management System is designed specifically for Castle Fun Center's diverse technology ecosystem, providing real-time monitoring and management of many different IoT devices across multiple categories. The system features both a monitoring dashboard and a complete management interface for adding, editing, and organizing devices.
 
 ## ✨ Features
 
